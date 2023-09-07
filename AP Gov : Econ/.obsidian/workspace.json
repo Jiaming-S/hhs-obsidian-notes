@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "5af746e1fffb44c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b30871abb11b16f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40cb754a781f0c13",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "bedb81073a77387d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Econ General/Production Possibility Frontier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0550395021ec07d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sole Proprietorship.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d13497439a8e5979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Partnerships.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2f5e2dd38a91ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Corporation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a026e03bd242139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Franchise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e96286750712b37",
+    "type": "split",
+    "children": [
+      {
+        "id": "375e84fd88ff280c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15501ab8e3ed0dd6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "7252edf0b0f70879",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbbfb1ec7e07f76c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "658a3e31fac2c322",
+    "type": "split",
+    "children": [
+      {
+        "id": "c64db73a13cd14d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c782fd825075438",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Franchise.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0e2a7af81ccd832",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Franchise.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6f93fa5f89ef895",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "12e23d1f09ca58d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Franchise.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a026e03bd242139",
+  "lastOpenFiles": [
+    "Corporation.md",
+    "Franchise.md",
+    "Partnerships.md",
+    "Sole Proprietorship.md",
+    "Econ General/Production Possibility Frontier.md",
+    "Econ General/Intro.md",
+    "Econ General/Factors of Production.md",
+    "Econ General/Cost Benefit Analysis.md",
+    "Econ General/Opportunity Cost.md",
+    "Econ General/Market Economy.md",
+    "Econ General/Command Economy.md",
+    "Econ General/Traditional Economy.md",
+    "Econ General/Economic Systems.md",
+    "Econ General/Scarcity.md",
+    "4 Questions.md",
+    "Entrepeneurs.md",
+    "Econ General",
+    "Maco Economics",
+    "Micro Economics"
+  ]
+}

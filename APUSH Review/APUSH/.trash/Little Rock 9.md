@@ -1,0 +1,2 @@
+
+Federal courts ordered desegregation of Central HS in Little Rock, Arkansas. Angry white mob tries to prevent implementation by blockading schools. Eisenhower federalized the national guard and sent them to Little Rock to restore order and ensure the court orders obeyed. The Governor of Arkansas will close the school district next year to prevent further integration. Critics of Ike claimed he waited too long to get involved.

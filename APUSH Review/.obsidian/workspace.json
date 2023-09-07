@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "0ae8dc9af60d3ffa",
+    "type": "split",
+    "children": [
+      {
+        "id": "76f310c588e93600",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1472d4d8d389ff2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "84e3a12533c89201",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          },
+          {
+            "id": "36c96c59025fffb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Period 7A/Sub Topics/Theodore Roosevelt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5c9c2c4a9dfb1d3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7888c4af977ed4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "747fdabc81b32174",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d0978de1b37c432",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "3d108e6970ccc319",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11366b2ba01c63ab",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8d5fde281e5f963",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8df4821b76c3ba17",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5b2d031f37ede13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31e2f9fef34083cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Period 7A/Sub Topics/Theodore Roosevelt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c07fa5421fedeb68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Period 7A/Sub Topics/Theodore Roosevelt.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "419454788a784617",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "86c0c1ed7e8fbbcf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Period 7A/Sub Topics/Theodore Roosevelt.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "84e3a12533c89201",
+  "lastOpenFiles": [
+    "Period 7A/Main Topics/Progressive Era.md",
+    "Period 8-9/Evidence/Great Society.md",
+    "APUSH/Evidence/Truman Era/Korean War.md",
+    "Period 7B/Evidence/Revitalizing Economy.md",
+    "Period 7B/Sub Topics/GD Economic Impact.md",
+    "Period 7B/Evidence/Bank Crisis.md",
+    "Period 7B/Main Topics/Great Depression.md",
+    "Period 7B/Sub Topics/Franklin Roosevelt.md",
+    "Period 7B/Evidence/Religion vs Science.md",
+    "Period 7B/Sub Topics/Social issues in the 20s.md",
+    "Period 7B/Evidence/Prohibition.md",
+    "Period 7B/Main Topics/Roaring 20's.md",
+    "Period 7A/Sub Topics/WW1 Social Impact.md",
+    "Period 7A/Main Topics/World War I.md",
+    "Period 7A/Sub Topics/WW1 Economic Impact.md",
+    "Period 7A/Sub Topics/WW1 Political Impact.md",
+    "Period 7A/Main Topics/Second Manifest Destiny.md",
+    "Period 7A/Sub Topics/SPAM War.md",
+    "Period 6/Sub Topics/Populist Party.md",
+    "Period 6/Sub Topics/Second Industrial Revolution.md",
+    "Period 7A/Evidence/Trust Busting (T. Roosevelt).md",
+    "Northern Securities Railroad.md",
+    "Period 6/Evidence/John D Rockefeller.md",
+    "Period 6/Main Topics/Gilded Age.md",
+    "Period 6/Sub Topics/Urbanization and Immigration.md",
+    "Period 5/Evidence/Reconstruction.md",
+    "APUSH/Big Topics/Period_1_20s_vs._50s_posters.pdf",
+    "APUSH Test Details",
+    "APUSH/Sub Topics",
+    "APUSH/Big Topics",
+    "APUSH/Icon\r",
+    "APUSH/Evidence/Eisenhower Era",
+    "APUSH/Evidence/Truman Era",
+    "APUSH/Evidence/Kennedy + LBJ Era",
+    "APUSH/Evidence/Reagan",
+    "APUSH/Evidence/Nixon Era"
+  ]
+}

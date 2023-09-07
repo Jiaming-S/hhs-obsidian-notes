@@ -1,0 +1,149 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file:\"The American Revolution\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "file:\"Federalists vs Republicans\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "file:\"Jefferson Presidency\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "file:\"James Monroe Presidency\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "file:\"Andrew Jackson Presidency\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "file:\"Market Revolution\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "file:\"Civil War Era\"",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "file:\"Gilded Age\"",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "file:\"Second Manifest Destiny\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "file:\"Progressive Era\"",
+      "color": {
+        "a": 1,
+        "rgb": 8525591
+      }
+    },
+    {
+      "query": "file:\"Theodore Roosevelt\"",
+      "color": {
+        "a": 1,
+        "rgb": 5717775
+      }
+    },
+    {
+      "query": "file:\"Forms of Diplomacy in 1900s\"",
+      "color": {
+        "a": 1,
+        "rgb": 4151055
+      }
+    },
+    {
+      "query": "file:\"World War I\"",
+      "color": {
+        "a": 1,
+        "rgb": 535304
+      }
+    },
+    {
+      "query": "file:\"Roaring 20's\"",
+      "color": {
+        "a": 1,
+        "rgb": 1005375
+      }
+    },
+    {
+      "query": "file:\"Great Depression\"",
+      "color": {
+        "a": 1,
+        "rgb": 999255
+      }
+    },
+    {
+      "query": "file:\"Franklin Roosevelt\"",
+      "color": {
+        "a": 1,
+        "rgb": 986967
+      }
+    },
+    {
+      "query": "file:\"World War 2\"",
+      "color": {
+        "a": 1,
+        "rgb": 2105414
+      }
+    },
+    {
+      "query": "file:\"Kennedy Era\"",
+      "color": {
+        "a": 1,
+        "rgb": 2105414
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 2.29439290364583,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.523722330729167,
+  "repelStrength": 9.68587239583333,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.569589465948805,
+  "close": true
+}

@@ -1,0 +1,2 @@
+
+Communist victory under Mao Zedong in China in 1949 led to many Americans feeling that Truman ‘lost’ China in a situation that could have been avoided if the US had intervened. The US will lend its support in the United Nations to Mao’s opponent, Chiang Kai Shek after he fled to the island of Taiwan (Formosa).

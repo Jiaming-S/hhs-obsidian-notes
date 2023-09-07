@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "ad2bb6b7c18e2b9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebedd94e2053a308",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "836030500479ddfa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "5728a3ba24d367fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Networks/Network Devices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb8a66429875b528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Personal Computer Components/Peripheral Cables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "831698e8e5560782",
+    "type": "split",
+    "children": [
+      {
+        "id": "642b235645c9033a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e405674a9051913",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "b6090b19ce6d07f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10e8188f3a6d3e4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf77a28aa31339f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fd509ce5763d791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a0421a90878e30b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 Personal Computer Components/Peripheral Cables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5da8139fc0e4aab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 Personal Computer Components/Peripheral Cables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "208dd827ac8ec1e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d27d7fe05932153",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 Personal Computer Components/Peripheral Cables.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fb8a66429875b528",
+  "lastOpenFiles": [
+    "3 Personal Computer Components/Video Cables.md",
+    "3 Personal Computer Components/BIOS.md",
+    "3 Personal Computer Components/Card.md",
+    "3 Personal Computer Components/Serial Port.md",
+    "3 Personal Computer Components/Small Computer System Interface (SCSI).md",
+    "3 Personal Computer Components/Bus.md",
+    "2 Networks/Networking Overview.md",
+    "3 Personal Computer Components/Peripheral Cables.md",
+    "3 Personal Computer Components/Storage Devices.md",
+    "2 Networks/Network Tools.md",
+    "2 Networks/PAN.md",
+    "2 Networks/Connection Types.md",
+    "2 Networks/Wireless Networking Standards.md",
+    "2 Networks/Software Defined Networking.md",
+    "2 Networks/Network Cables.md",
+    "2 Networks/Network Devices.md",
+    "2 Networks/VPN.md",
+    "2 Networks/WLAN.md",
+    "2 Networks/MAN.md",
+    "2 Networks/WAN.md",
+    "2 Networks/LAN.md",
+    "2 Networks/Network Vulnerabilities.md",
+    "2 Networks/Ethernet.md",
+    "1 Operating Systems/System Files.md",
+    "1 Operating Systems/Operating Systems.md",
+    "1 Operating Systems/Disk Operating System (DOS).md",
+    "Screen Shot 2023-06-25 at 6.40.14 PM.png",
+    "Screen Shot 2023-06-24 at 2.29.58 PM.png",
+    "Mock Test Questions.txt",
+    "7 Safety and Environmental Issues",
+    "6 Printers and Scanners",
+    "5 Laptops and Portable Devices",
+    "4 Security",
+    "3 Personal Computer Components",
+    "2 Networks",
+    "1 Operating Systems",
+    "Safety and Environmental Issues",
+    "untitled folder"
+  ]
+}

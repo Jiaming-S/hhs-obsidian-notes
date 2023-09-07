@@ -1,0 +1,6 @@
+
+Declared the colonies independent 
+
+
+
+
