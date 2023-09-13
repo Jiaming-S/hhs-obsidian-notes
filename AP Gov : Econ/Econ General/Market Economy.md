@@ -8,6 +8,10 @@ Characteristics
 - Private ownership of property
 - Individual profits
 - Capitalism
+- [[Sole Proprietorship]]
+- [[Partnerships]]
+- [[Corporation]]
+- [[Franchise]]
 
 Advantages
 - Adjusts to change

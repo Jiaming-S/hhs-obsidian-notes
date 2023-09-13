@@ -17,6 +17,10 @@ Definition: how people make decisions to satisfy their needs with limited resour
 
 [[Cost Benefit Analysis]]
 
-[[Productions Possibility Frontier]]: PPF
+[[Production Possibility Frontier]]: PPF
+
+[[GDP]]: Dollar value of all final goods and services produced in a country in 1 year
+
+[[Production Players]]
 
 

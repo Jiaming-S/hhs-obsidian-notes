@@ -18,67 +18,43 @@
             }
           },
           {
-            "id": "bedb81073a77387d",
+            "id": "6ea48791f5528040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econ General/Production Possibility Frontier.md",
+                "file": "Paradox of Value.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e0550395021ec07d",
+            "id": "ab3d59791d27fbca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sole Proprietorship.md",
+                "file": "Paradox of Value.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d13497439a8e5979",
+            "id": "81312843ddfaeca5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partnerships.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2f5e2dd38a91ca6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corporation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a026e03bd242139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Franchise.md",
+                "file": "Econ General/Command Economy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Franchise.md",
+                "file": "Econ General/Command Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Franchise.md",
+                "file": "Econ General/Command Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +160,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Franchise.md"
+                "file": "Econ General/Command Economy.md"
+              }
+            }
+          },
+          {
+            "id": "4331e9ac01d646b7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -205,22 +191,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a026e03bd242139",
+  "active": "81312843ddfaeca5",
   "lastOpenFiles": [
-    "Corporation.md",
-    "Franchise.md",
-    "Partnerships.md",
-    "Sole Proprietorship.md",
-    "Econ General/Production Possibility Frontier.md",
-    "Econ General/Intro.md",
-    "Econ General/Factors of Production.md",
+    "Paradox of Value.md",
+    "Econ General/Production Players.md",
+    "Econ General/Circular Flow.md",
+    "Econ General/Service.md",
+    "Econ General/Consumer Good.md",
+    "Econ General/Capital Good.md",
+    "Econ General/Franchise.md",
+    "Econ General/Partnerships.md",
+    "Econ General/Sole Proprietorship.md",
     "Econ General/Cost Benefit Analysis.md",
     "Econ General/Opportunity Cost.md",
+    "Econ General/Factors of Production.md",
     "Econ General/Market Economy.md",
-    "Econ General/Command Economy.md",
     "Econ General/Traditional Economy.md",
+    "Econ General/Command Economy.md",
     "Econ General/Economic Systems.md",
     "Econ General/Scarcity.md",
+    "Econ General/Intro.md",
+    "Econ General/Production Possibility Frontier.md",
+    "Econ General/Corporation.md",
     "4 Questions.md",
     "Entrepeneurs.md",
     "Econ General",
