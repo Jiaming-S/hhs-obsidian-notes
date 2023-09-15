@@ -6,7 +6,7 @@ Most businesses are sole proprietorships
 
 
 Advantages
-- East of startup
+- Ease of startup
 - Satisfaction
 - All profits for owner
 - Ease of management

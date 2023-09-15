@@ -18,43 +18,19 @@
             }
           },
           {
-            "id": "6ea48791f5528040",
+            "id": "da913ac27b889e54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paradox of Value.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab3d59791d27fbca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paradox of Value.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81312843ddfaeca5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Econ General/Command Economy.md",
+                "file": "Econ General/Factors of Production.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econ General/Command Economy.md",
+                "file": "Econ General/Factors of Production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econ General/Command Economy.md",
+                "file": "Econ General/Factors of Production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econ General/Command Economy.md"
+                "file": "Econ General/Factors of Production.md"
               }
             }
           },
@@ -191,28 +167,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81312843ddfaeca5",
+  "active": "da913ac27b889e54",
   "lastOpenFiles": [
-    "Paradox of Value.md",
-    "Econ General/Production Players.md",
+    "Econ General/Sole Proprietorship.md",
+    "Econ General/Econ Test 1 Prep.md",
     "Econ General/Circular Flow.md",
+    "Econ General/Paradox of Value.md",
+    "Econ General/Production Players.md",
     "Econ General/Service.md",
     "Econ General/Consumer Good.md",
-    "Econ General/Capital Good.md",
-    "Econ General/Franchise.md",
-    "Econ General/Partnerships.md",
-    "Econ General/Sole Proprietorship.md",
+    "Econ General/Preferred Stock.md",
     "Econ General/Cost Benefit Analysis.md",
-    "Econ General/Opportunity Cost.md",
-    "Econ General/Factors of Production.md",
+    "Econ General/Corporation.md",
     "Econ General/Market Economy.md",
     "Econ General/Traditional Economy.md",
     "Econ General/Command Economy.md",
     "Econ General/Economic Systems.md",
-    "Econ General/Scarcity.md",
+    "Econ General/Capital Good.md",
     "Econ General/Intro.md",
+    "Econ General/Scarcity.md",
     "Econ General/Production Possibility Frontier.md",
-    "Econ General/Corporation.md",
+    "Econ General/Common Stock.md",
+    "Econ General/Franchise.md",
+    "Econ General/Partnerships.md",
+    "Econ General/Opportunity Cost.md",
+    "Econ General/Factors of Production.md",
     "4 Questions.md",
     "Entrepeneurs.md",
     "Econ General",
