@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Intro",
+      "query": "file:Econ-General",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "",
+      "query": "file:Microeconomics-General",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -32,6 +32,6 @@
   "repelStrength": 9.7412109375,
   "linkStrength": 1,
   "linkDistance": 186,
-  "scale": 0.7783726052598091,
-  "close": true
+  "scale": 0.9278841470440267,
+  "close": false
 }

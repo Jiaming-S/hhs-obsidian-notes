@@ -18,19 +18,42 @@
             }
           },
           {
-            "id": "da913ac27b889e54",
+            "id": "a20553a1631c4b4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econ General/Factors of Production.md",
+                "file": "Demand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c4b2bfedaee7cc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demand Curve.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb32f037d182e51d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shift in Demand Curve.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econ General/Factors of Production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econ General/Factors of Production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Econ General/Factors of Production.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +186,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da913ac27b889e54",
+  "active": "40cb754a781f0c13",
   "lastOpenFiles": [
+    "Demand.md",
+    "Demand Curve.md",
+    "Shift in Demand Curve.md",
+    "Microeconomics-General.md",
+    "Marginal Utility.md",
+    "Utility.md",
+    "Econ General/Econ-General.md",
+    "Econ General/Factors of Production.md",
     "Econ General/Sole Proprietorship.md",
     "Econ General/Econ Test 1 Prep.md",
     "Econ General/Circular Flow.md",
@@ -184,16 +211,9 @@
     "Econ General/Command Economy.md",
     "Econ General/Economic Systems.md",
     "Econ General/Capital Good.md",
-    "Econ General/Intro.md",
     "Econ General/Scarcity.md",
     "Econ General/Production Possibility Frontier.md",
     "Econ General/Common Stock.md",
-    "Econ General/Franchise.md",
-    "Econ General/Partnerships.md",
-    "Econ General/Opportunity Cost.md",
-    "Econ General/Factors of Production.md",
-    "4 Questions.md",
-    "Entrepeneurs.md",
     "Econ General",
     "Maco Economics",
     "Micro Economics"
