@@ -1,41 +1,33 @@
 {
   "main": {
-    "id": "0ae8dc9af60d3ffa",
+    "id": "fdce4851045f32c1",
     "type": "split",
     "children": [
       {
-        "id": "76f310c588e93600",
+        "id": "0fa2661818450a0e",
         "type": "tabs",
         "children": [
           {
-            "id": "36c96c59025fffb6",
+            "id": "913eab4b45b0cda6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Period 7A/Sub Topics/Theodore Roosevelt.md",
+                "file": "Week 1/Set Theory Notation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f5c9c2c4a9dfb1d3",
+            "id": "03334573fcf748a4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.4"
-              }
-            }
-          },
-          {
-            "id": "a79e4beffa3287dd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "APUSH/Big Topics/Period_1_20s_vs._50s_posters.pdf"
+                "file": "Week 1/Set Theory.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -45,25 +37,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a7888c4af977ed4d",
+    "id": "af11bba25216445c",
     "type": "split",
     "children": [
       {
-        "id": "747fdabc81b32174",
+        "id": "616d882cb87a1291",
         "type": "tabs",
         "children": [
           {
-            "id": "9d0978de1b37c432",
+            "id": "61e57bc96686a33c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "3d108e6970ccc319",
+            "id": "e69819839152154d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,15 +70,7 @@
             }
           },
           {
-            "id": "11366b2ba01c63ab",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "e8d5fde281e5f963",
+            "id": "6558e8883a44693f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -100,20 +84,20 @@
     "width": 300
   },
   "right": {
-    "id": "8df4821b76c3ba17",
+    "id": "4530f0b16b32b40d",
     "type": "split",
     "children": [
       {
-        "id": "a5b2d031f37ede13",
+        "id": "cf54630eb9ffab74",
         "type": "tabs",
         "children": [
           {
-            "id": "31e2f9fef34083cc",
+            "id": "c4655ab040819cfc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Period 7A/Sub Topics/Theodore Roosevelt.md",
+                "file": "Week 1/Set Theory Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,19 +109,19 @@
             }
           },
           {
-            "id": "c07fa5421fedeb68",
+            "id": "3c741d5dfab15335",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Period 7A/Sub Topics/Theodore Roosevelt.md",
+                "file": "Week 1/Set Theory Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "419454788a784617",
+            "id": "41fd23b5f96b0608",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,12 +132,12 @@
             }
           },
           {
-            "id": "86c0c1ed7e8fbbcf",
+            "id": "361a6dc2216b02cd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Period 7A/Sub Topics/Theodore Roosevelt.md"
+                "file": "Week 1/Set Theory Notation.md"
               }
             }
           }
@@ -161,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,42 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36c96c59025fffb6",
+  "active": "913eab4b45b0cda6",
   "lastOpenFiles": [
-    "APUSH/Big Topics/Period_1_20s_vs._50s_posters.pdf",
-    "Period 4/Sub Topics/Market Rev Inventions.md",
-    "Period 4/Main Topics/Market Revolution.md",
-    "Period 6/Sub Topics/Populist Party.md",
-    "Period 6/Main Topics/Gilded Age.md",
-    "Period 7A/Main Topics/Progressive Era.md",
-    "Period 8-9/Evidence/Great Society.md",
-    "APUSH/Evidence/Truman Era/Korean War.md",
-    "Period 7B/Evidence/Revitalizing Economy.md",
-    "Period 7B/Sub Topics/GD Economic Impact.md",
-    "Period 7B/Evidence/Bank Crisis.md",
-    "Period 7B/Main Topics/Great Depression.md",
-    "Period 7B/Sub Topics/Franklin Roosevelt.md",
-    "Period 7B/Evidence/Religion vs Science.md",
-    "Period 7B/Sub Topics/Social issues in the 20s.md",
-    "Period 7B/Evidence/Prohibition.md",
-    "Period 7B/Main Topics/Roaring 20's.md",
-    "Period 7A/Sub Topics/WW1 Social Impact.md",
-    "Period 7A/Main Topics/World War I.md",
-    "Period 7A/Sub Topics/WW1 Economic Impact.md",
-    "Period 7A/Sub Topics/WW1 Political Impact.md",
-    "Period 7A/Main Topics/Second Manifest Destiny.md",
-    "Period 7A/Sub Topics/SPAM War.md",
-    "Period 6/Sub Topics/Second Industrial Revolution.md",
-    "Period 7A/Evidence/Trust Busting (T. Roosevelt).md",
-    "Northern Securities Railroad.md",
-    "APUSH Test Details",
-    "APUSH/Sub Topics",
-    "APUSH/Big Topics",
-    "APUSH/Icon\r",
-    "APUSH/Evidence/Eisenhower Era",
-    "APUSH/Evidence/Truman Era",
-    "APUSH/Evidence/Kennedy + LBJ Era",
-    "APUSH/Evidence/Reagan",
-    "APUSH/Evidence/Nixon Era"
+    "Week 1/Set Theory.md",
+    "Week 1/Set Theory Notation.md",
+    "Week 1/Introduction to Discrete Math.md",
+    "Week 1"
   ]
 }

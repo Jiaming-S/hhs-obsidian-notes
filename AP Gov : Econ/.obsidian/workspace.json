@@ -18,42 +18,19 @@
             }
           },
           {
-            "id": "a20553a1631c4b4b",
+            "id": "d442f193030a6da6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c4b2bfedaee7cc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Demand Curve.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb32f037d182e51d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shift in Demand Curve.md",
+                "file": "Demand Elasticity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Demand Elasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Demand Elasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Demand Elasticity.md"
+              }
             }
           },
           {
@@ -186,14 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40cb754a781f0c13",
+  "active": "d442f193030a6da6",
   "lastOpenFiles": [
-    "Demand.md",
-    "Demand Curve.md",
-    "Shift in Demand Curve.md",
-    "Microeconomics-General.md",
-    "Marginal Utility.md",
-    "Utility.md",
+    "Supply Elasticity.md",
+    "Demand Elasticity.md",
+    "Micro Economics/Shift in Demand Curve.md",
+    "Factors of Demand Elasticity.md",
+    "Micro Economics/Shift in Supply Curve.md",
+    "Micro Economics/Supply.md",
+    "Micro Economics/Supply Curve.md",
+    "Micro Economics/Demand Curve.md",
+    "Micro Economics/Microeconomics-General.md",
+    "Micro Economics/Demand.md",
+    "Econ General/Service.md",
+    "Micro Economics/Utility.md",
+    "Micro Economics/Marginal Utility.md",
     "Econ General/Econ-General.md",
     "Econ General/Factors of Production.md",
     "Econ General/Sole Proprietorship.md",
@@ -201,19 +189,12 @@
     "Econ General/Circular Flow.md",
     "Econ General/Paradox of Value.md",
     "Econ General/Production Players.md",
-    "Econ General/Service.md",
     "Econ General/Consumer Good.md",
     "Econ General/Preferred Stock.md",
     "Econ General/Cost Benefit Analysis.md",
     "Econ General/Corporation.md",
     "Econ General/Market Economy.md",
     "Econ General/Traditional Economy.md",
-    "Econ General/Command Economy.md",
-    "Econ General/Economic Systems.md",
-    "Econ General/Capital Good.md",
-    "Econ General/Scarcity.md",
-    "Econ General/Production Possibility Frontier.md",
-    "Econ General/Common Stock.md",
     "Econ General",
     "Maco Economics",
     "Micro Economics"
