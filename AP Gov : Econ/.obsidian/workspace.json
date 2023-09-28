@@ -23,14 +23,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demand Elasticity.md",
+                "file": "Micro Economics/Demand Elasticity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a946e6a6917c91a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Micro Economics/Law of Variable Proportions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1110f6189e48ebc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Surplus and Shortage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71f780835d0fb33f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shortage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89dc22a057b8dacc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shortage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -96,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demand Elasticity.md",
+                "file": "Shortage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demand Elasticity.md",
+                "file": "Shortage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demand Elasticity.md"
+                "file": "Shortage.md"
               }
             }
           },
@@ -167,13 +215,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d442f193030a6da6",
+  "active": "71f780835d0fb33f",
   "lastOpenFiles": [
-    "Supply Elasticity.md",
-    "Demand Elasticity.md",
+    "Surplus.md",
+    "Surplus and Shortage.md",
+    "Shortage.md",
+    "Micro Economics/Law of Variable Proportions.md",
+    "Assets/surplus-shortage.png",
+    "Assets/Screen Shot 2023-09-27 at 12.25.11 PM.png",
+    "Assets/surplus-and-shortage.png",
+    "Assets",
+    "Micro Economics/Shift in Supply Curve.md",
+    "Micro Economics/Demand Elasticity.md",
+    "Micro Economics/Supply Elasticity.md",
     "Micro Economics/Shift in Demand Curve.md",
     "Factors of Demand Elasticity.md",
-    "Micro Economics/Shift in Supply Curve.md",
     "Micro Economics/Supply.md",
     "Micro Economics/Supply Curve.md",
     "Micro Economics/Demand Curve.md",
@@ -191,10 +247,6 @@
     "Econ General/Production Players.md",
     "Econ General/Consumer Good.md",
     "Econ General/Preferred Stock.md",
-    "Econ General/Cost Benefit Analysis.md",
-    "Econ General/Corporation.md",
-    "Econ General/Market Economy.md",
-    "Econ General/Traditional Economy.md",
     "Econ General",
     "Maco Economics",
     "Micro Economics"

@@ -50,7 +50,11 @@ $A \setminus B$
 
 $A \times B$
 - Cartesian product
-- Basically plot the sets with values of A along x axis and values of B along y axis
+- Set of ordered pairs representing all possible combinations of elements from the two sets
+
+$a\; |\; b$
+- a cleanly divides b
+- So $ak = b$
 
 
 # Some notable sets
@@ -61,7 +65,7 @@ $\emptyset = \{\}$
 $\mathbb{N} = \{0, 1, 2, 3, ...\}$
 - Natural / counting numbers
 
-$\mathbb{R} = \{..., -2, -1, 0, 1, 2, ...\}$
+$\mathbb{Z} = \{..., -2, -1, 0, 1, 2, ...\}$
 - Integers 
 
 $\mathbb{Q} = \{\frac{a}{b}: a, b \in \mathbb{R} \text{ and } b \neq 0\}$
