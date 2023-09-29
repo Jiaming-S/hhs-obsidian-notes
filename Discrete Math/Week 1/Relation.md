@@ -1,9 +1,10 @@
 
 A relation is also a set. 
+* A Relation of A into B is any subset of $A \times B$
+* Relation of A into A is called a "Relation on A" 
 
-A Relation of A into B is any subset of $A \times B$
+If a relation has one output for every input it is a function
 
-Relation of A into A is a Relation on A
 
 If the relation is "$s$", we can express the relation as
 - $a s b$

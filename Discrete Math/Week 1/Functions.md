@@ -20,6 +20,12 @@ $f: \mathbb{N} \rightarrow \mathbb{N}$ defined by $f(n) = 3n$
 - But range is $\{0, 3, 6, 9, ...\}$
 
 Example:
+$f: \mathbb{Z} \times \mathbb{Z} \rightarrow \mathbb{Z}; f(n, m) = n \cdot m$
+- Domain is $\mathbb{Z} \times \mathbb{Z}$
+	- Domain needs to match input so it is cartesian product (all combinations) 
+- Codomain is $\mathbb{Z}$
+
+Example:
 $g: \{1, 2, 3\} \rightarrow \{a, b, c\}$ defined by $g(1) = c$ ,   $g(2) = c$ ,   $g(3) = a$
 - Domain is $\{1, 2, 3\}$
 - Codomain is $\{a, b, c\}$
@@ -34,9 +40,9 @@ $f: \mathbb{N} \rightarrow \mathbb{N}$ defined by $f(n) = \frac{n}{2}$
 [[Properties of Functions]]
 - Surjective, Injective, and Bijective (both)
 
-
 [[Images and Inverse Images]] 
-- 
+- Image: returned set after applying function to a set
+- Inverse Image: set of all inputs that will return values in a set
 
 
 

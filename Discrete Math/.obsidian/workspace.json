@@ -46,30 +46,31 @@
             }
           },
           {
-            "id": "30ac031a6dd098b1",
+            "id": "fd0fefa6354e1419",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Functions.md",
+                "file": "Week 1/Logic.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c5ada5beaba06767",
+            "id": "995120684b443ac3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Images and Inverse Images.md",
+                "file": "Logical Connectives.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Logical Connectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Logical Connectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Logical Connectives.md"
+              }
             }
           }
         ]
@@ -192,11 +197,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "913eab4b45b0cda6",
+  "active": "995120684b443ac3",
   "lastOpenFiles": [
+    "Week 1/Logic.md",
+    "Logical Connectives.md",
+    "Week 1/Statement.md",
+    "Week 1/Set Theory Intro.md",
     "Week 1/Images and Inverse Images.md",
     "Week 1/Functions.md",
-    "Week 1/Set Theory Intro.md",
+    "Week 1/Introduction to Discrete Math.md",
+    "Week 1/Set Theory Notation.md",
+    "Week 1/Relation.md",
     "Week 1/Visualizing Functions.md",
     "Week 1/Properties of Functions.md",
     "Assets/function-injective.png",
@@ -204,9 +215,7 @@
     "Assets/function-surjective.png",
     "Assets/function-matrix.png",
     "Week 1/Cartesian Product.md",
-    "Week 1/Relation.md",
     "Assets/function-table-of-values.png",
-    "Week 1/Set Theory Notation.md",
     "Assets/function-arrow-diagram.png",
     "Week 1/Subset.md",
     "Assets/relation-graph.png",
@@ -215,7 +224,6 @@
     "Week 1/Power Set.md",
     "2023-09-26.md",
     "Untitled.canvas",
-    "Week 1/Introduction to Discrete Math.md",
     "Week 1"
   ]
 }
