@@ -18,19 +18,43 @@
             }
           },
           {
-            "id": "d8b6e0527529f06e",
+            "id": "2f521c37fb24543e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Micro Economics/Government Interventions.md",
+                "file": "Micro Economics/Microeconomics-General.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "995ab39cab177de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Micro Economics/Supply Elasticity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6de01a2d8aba370f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Micro Economics/Demand Elasticity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Micro Economics/Government Interventions.md",
+                "file": "Micro Economics/Demand Elasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Micro Economics/Government Interventions.md",
+                "file": "Micro Economics/Demand Elasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Micro Economics/Government Interventions.md"
+                "file": "Micro Economics/Demand Elasticity.md"
               }
             }
           },
@@ -167,38 +191,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8b6e0527529f06e",
+  "active": "6de01a2d8aba370f",
   "lastOpenFiles": [
-    "Micro Economics/Law of Variable Proportions.md",
-    "Micro Economics/Government Interventions.md",
-    "Micro Economics/Market Failures.md",
-    "Micro Economics/Market Structures.md",
+    "Micro Economics/Supply Elasticity.md",
+    "Micro Economics/Demand Elasticity.md",
     "Micro Economics/Shortage.md",
     "Micro Economics/Surplus.md",
+    "Micro Economics/Demand.md",
+    "Micro Economics/Market Structures.md",
+    "Micro Economics/Shift in Demand Curve.md",
+    "Micro Economics/Shift in Supply Curve.md",
+    "Micro Economics/Supply Curve.md",
+    "Micro Economics/Supply.md",
+    "Micro Economics/Demand Curve.md",
+    "Micro Economics/Marginal Utility.md",
+    "Micro Economics/Utility.md",
+    "Micro Economics/Microeconomics-General.md",
+    "Micro Economics/Market Failures.md",
     "Micro Economics/Surplus and Shortage.md",
+    "Micro Economics/Government Interventions.md",
+    "Micro Economics/Cost of Production.md",
+    "Micro Economics/Law of Variable Proportions.md",
     "Assets/surplus-shortage.png",
     "Assets/Screen Shot 2023-09-27 at 12.25.11 PM.png",
     "Assets/surplus-and-shortage.png",
     "Assets",
-    "Micro Economics/Shift in Supply Curve.md",
-    "Micro Economics/Demand Elasticity.md",
-    "Micro Economics/Supply Elasticity.md",
-    "Micro Economics/Shift in Demand Curve.md",
     "Factors of Demand Elasticity.md",
-    "Micro Economics/Supply.md",
-    "Micro Economics/Supply Curve.md",
-    "Micro Economics/Demand Curve.md",
-    "Micro Economics/Microeconomics-General.md",
-    "Micro Economics/Demand.md",
     "Econ General/Service.md",
-    "Micro Economics/Utility.md",
-    "Micro Economics/Marginal Utility.md",
     "Econ General/Econ-General.md",
     "Econ General/Factors of Production.md",
     "Econ General/Sole Proprietorship.md",
     "Econ General/Econ Test 1 Prep.md",
     "Econ General/Circular Flow.md",
-    "Econ General/Paradox of Value.md",
     "Econ General",
     "Maco Economics",
     "Micro Economics"

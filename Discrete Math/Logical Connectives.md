@@ -1,6 +1,0 @@
-
-[[Binary Connectives]]
-- Require 
-
-
-

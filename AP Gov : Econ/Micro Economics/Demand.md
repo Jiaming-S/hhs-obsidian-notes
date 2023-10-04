@@ -20,6 +20,7 @@ What impacts demand?
 - Market Demand:  entire market combined
 - Plot of Demand Schedule: [[Demand Curve]]
 
-
+Impacted by [[Demand Elasticity]]
+- High elasticity = shallow negative curve
 
 

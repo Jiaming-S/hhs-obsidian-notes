@@ -1,6 +1,7 @@
 
-Non-price criteria used to allocate resources
+Quantity demanded exceeds quantity supplied
 
+Non-price ways to address shortage (to allocate the scarce resource):
 [[First Come]]
 - Whoever gets there first gets it
 
