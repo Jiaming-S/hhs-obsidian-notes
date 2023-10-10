@@ -46,43 +46,31 @@
             }
           },
           {
-            "id": "8c0099a9cd35ee20",
+            "id": "239a8f2551b1def0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Predicates.md",
+                "file": "Week 1/Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9550852ea56ae383",
+            "id": "5578328948bda035",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Quantifier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80b035af542324b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Statement.md",
+                "file": "Well Ordering Principle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/Statement.md",
+                "file": "Week 1/Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1/Statement.md",
+                "file": "Week 1/Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1/Statement.md"
+                "file": "Week 1/Functions.md"
               }
             }
           }
@@ -209,37 +197,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80b035af542324b8",
+  "active": "239a8f2551b1def0",
   "lastOpenFiles": [
+    "Week 1/Unary Connectives.md",
+    "Well Ordering Principle.md",
+    "Untitled",
+    "Week 3",
+    "Week 1/Statement.md",
+    "Week 1/Power Set.md",
+    "Week 1/Set Theory Notation.md",
     "Week 1/Binary Connectives.md",
-    "Week 1/Predicates.md",
+    "Week 1/Propositional Variables.md",
     "Week 1/Properties of Functions.md",
+    "Week 1/Functions.md",
+    "Week 1/Relation.md",
+    "Week 2/Direct Proof.md",
+    "Week 2/Proof by Contradiction.md",
+    "Week 2/Proof by Contrapositive.md",
+    "Week 2/Proof by Set Membership Table.md",
+    "Week 2/Proof by (Counter) Example.md",
+    "Week 2/Proofs.md",
+    "Implication / Conditional.md",
+    "Implication ",
+    "Week 2",
+    "Week 1/Predicates.md",
     "Week 1/Quantifier.md",
     "Week 1/Logic.md",
-    "Week 1/Unary Connectives.md",
-    "Week 1/Set Theory Notation.md",
-    "Week 1/Propositional Variables.md",
-    "Week 1/Statement.md",
     "Week 1/Logical Connectives.md",
     "Week 1/Set Theory Intro.md",
-    "Week 1/Power Set.md",
     "Week 1/Subset.md",
     "Week 1/Proper Subset.md",
     "Week 1/Images and Inverse Images.md",
-    "Week 1/Functions.md",
     "Week 1/Introduction to Discrete Math.md",
-    "Week 1/Relation.md",
-    "Week 1/Visualizing Functions.md",
     "Assets/function-injective.png",
     "Assets/Screen Shot 2023-09-27 at 8.47.59 PM 1.png",
     "Assets/function-surjective.png",
     "Assets/function-matrix.png",
-    "Week 1/Cartesian Product.md",
     "Assets/function-table-of-values.png",
     "Assets/function-arrow-diagram.png",
     "Assets/relation-graph.png",
     "Assets",
-    "2023-09-26.md",
     "Untitled.canvas",
     "Week 1"
   ]

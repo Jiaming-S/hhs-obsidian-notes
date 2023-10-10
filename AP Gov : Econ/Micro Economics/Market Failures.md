@@ -13,7 +13,7 @@
 - Can't transfer capital from one company to another
 - Geographic: don't have resources to transfer resources from one place to another
 - Occupational: 
-- Unoptimal and not using all resources to full potential
+- Suboptimal and not using all resources to full potential
 
 [[Positive Externalities]]
 - Externality is an unintended side effect caused by external influence
