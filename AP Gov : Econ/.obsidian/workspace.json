@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "9727ff1423e62a52",
+            "id": "4118acdba214827d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Micro Economics/Surplus and Shortage.md",
+                "file": "Federal Reserve.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Micro Economics/Surplus and Shortage.md",
+                "file": "Federal Reserve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Micro Economics/Surplus and Shortage.md",
+                "file": "Federal Reserve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Micro Economics/Surplus and Shortage.md"
+                "file": "Federal Reserve.md"
               }
             }
           },
@@ -167,38 +167,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9727ff1423e62a52",
+  "active": "4118acdba214827d",
   "lastOpenFiles": [
-    "Micro Economics/Marginal Utility.md",
-    "Micro Economics/Surplus and Shortage.md",
-    "Micro Economics/Government Interventions.md",
+    "Tools of the Fed.md",
+    "Major Functions of the Fed.md",
+    "Federal Reserve Structure.md",
+    "Federal Reserve.md",
+    "M1.md",
+    "Money.md",
+    "Non-depository Institutions.md",
+    "Depository Institutions.md",
+    "Econ/Econ-General.md",
+    "Assets/federal-reserve-structure.png",
+    "Assets/surplus-shortage.png",
+    "M2.md",
+    "Micro Economics/Supply Curve.md",
+    "Micro Economics/Supply.md",
+    "FDIC.md",
     "Micro Economics/Demand Elasticity.md",
+    "Micro Economics/Supply Elasticity.md",
+    "Monopoly.md",
+    "Micro Economics/Surplus and Shortage.md",
+    "Micro Economics/Marginal Utility.md",
+    "Micro Economics/Government Interventions.md",
     "Micro Economics/Shift in Demand Curve.md",
     "Micro Economics/Law of Variable Proportions.md",
-    "Micro Economics/Supply Elasticity.md",
     "Micro Economics/Shift in Supply Curve.md",
     "Micro Economics/Demand Curve.md",
     "Micro Economics/Cost of Production.md",
     "Micro Economics/Market Structures.md",
     "Micro Economics/Surplus.md",
-    "Micro Economics/Shortage.md",
-    "Micro Economics/Demand.md",
-    "Micro Economics/Utility.md",
-    "Micro Economics/Supply.md",
-    "Micro Economics/Market Failures.md",
-    "Micro Economics/Supply Curve.md",
-    "Micro Economics/Microeconomics-General.md",
-    "Assets/surplus-shortage.png",
     "Assets/Screen Shot 2023-09-27 at 12.25.11 PM.png",
     "Assets/surplus-and-shortage.png",
     "Assets",
-    "Factors of Demand Elasticity.md",
-    "Econ General/Service.md",
-    "Econ/Econ-General.md",
-    "Econ/Factors of Production.md",
-    "Econ/Sole Proprietorship.md",
-    "Econ/Econ Test 1 Prep.md",
-    "Econ/Circular Flow.md",
     "Econ",
     "Maco Economics",
     "Micro Economics"
