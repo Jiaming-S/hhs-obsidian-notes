@@ -1,5 +1,5 @@
 
-Intermediary between savers and borrowers but does not accept time deposits
+Intermediary between savers and borrowers but does not accept deposits
 - Someone who takes your money and invests it into something else 
 
 Examples:

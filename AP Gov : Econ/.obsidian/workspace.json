@@ -18,19 +18,79 @@
             }
           },
           {
-            "id": "4118acdba214827d",
+            "id": "fcff30c386531469",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Federal Reserve.md",
+                "file": "Sales Tax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a3a2c025936faab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Security and Medicare.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e363bd9ca554831c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Federal Budget Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f04445116cc246a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fiscal Year.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7903c2f2c8e8ec1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deficit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ebcdc1e55e9b3f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Debt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -96,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Federal Reserve.md",
+                "file": "Debt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Federal Reserve.md",
+                "file": "Debt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Federal Reserve.md"
+                "file": "Debt.md"
               }
             }
           },
@@ -167,36 +227,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4118acdba214827d",
+  "active": "8ebcdc1e55e9b3f2",
   "lastOpenFiles": [
-    "Tools of the Fed.md",
-    "Major Functions of the Fed.md",
-    "Federal Reserve Structure.md",
-    "Federal Reserve.md",
-    "M1.md",
-    "Money.md",
-    "Non-depository Institutions.md",
-    "Depository Institutions.md",
-    "Econ/Econ-General.md",
+    "Deficit.md",
+    "Debt.md",
+    "Federal Budget Process.md",
+    "Fiscal Year.md",
+    "Social Security and Medicare.md",
+    "Federal Taxes.md",
+    "Personal Income Tax.md",
+    "Estate Tax.md",
+    "Gift Tax.md",
+    "Excise Tax.md",
+    "Tariffs.md",
+    "State Taxes.md",
+    "Sales Tax.md",
+    "Property Tax.md",
+    "Regressive Tax.md",
+    "Direct Taxes.md",
+    "Indirect Taxes.md",
+    "Progressive Tax.md",
+    "Proportional Tax.md",
+    "Fiscal Policy.md",
+    "Estate and Gift Taxes.md",
+    "Ability to Pay Principle.md",
+    "Benefit Principle.md",
+    "Micro Economics/Microeconomics-General.md",
+    "Micro Economics/Federal Reserve.md",
+    "Micro Economics/Major Functions of the Fed.md",
     "Assets/federal-reserve-structure.png",
     "Assets/surplus-shortage.png",
-    "M2.md",
-    "Micro Economics/Supply Curve.md",
-    "Micro Economics/Supply.md",
-    "FDIC.md",
-    "Micro Economics/Demand Elasticity.md",
-    "Micro Economics/Supply Elasticity.md",
-    "Monopoly.md",
-    "Micro Economics/Surplus and Shortage.md",
-    "Micro Economics/Marginal Utility.md",
-    "Micro Economics/Government Interventions.md",
-    "Micro Economics/Shift in Demand Curve.md",
-    "Micro Economics/Law of Variable Proportions.md",
-    "Micro Economics/Shift in Supply Curve.md",
-    "Micro Economics/Demand Curve.md",
-    "Micro Economics/Cost of Production.md",
-    "Micro Economics/Market Structures.md",
-    "Micro Economics/Surplus.md",
     "Assets/Screen Shot 2023-09-27 at 12.25.11 PM.png",
     "Assets/surplus-and-shortage.png",
     "Assets",
