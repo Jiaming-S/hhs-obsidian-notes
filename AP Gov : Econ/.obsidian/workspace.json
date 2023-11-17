@@ -18,66 +18,43 @@
             }
           },
           {
-            "id": "d706a464945dd348",
+            "id": "012421cb3c138945",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economic Indicators.md",
+                "file": "Maco Economics/EEOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a8726c867a534f7d",
+            "id": "b4639cb7c18609aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labor.md",
+                "file": "Maco Economics/Direct Taxes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c25c70b1f41a92b1",
+            "id": "c14cc73cd57bef28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c37f3196fbf3c147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wages and Salary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d679f76deef9d923",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wages and Salary.md",
+                "file": "Maco Economics/Fiscal Policy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maco Economics/Fiscal Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maco Economics/Fiscal Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maco Economics/Fiscal Policy.md"
+              }
             }
           },
           {
@@ -210,35 +191,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40cb754a781f0c13",
+  "active": "15501ab8e3ed0dd6",
   "lastOpenFiles": [
-    "Wages and Salary.md",
-    "Types of Labor.md",
-    "Labor.md",
-    "Types of Workers.md",
-    "Economic Indicators.md",
-    "Business Cycle.md",
-    "The Periods of Business Cycle.md",
+    "Maco Economics/Estate Tax.md",
+    "Maco Economics/Social Security and Medicare.md",
+    "Maco Economics/Federal Taxes.md",
+    "Maco Economics/Fiscal Policy.md",
+    "Maco Economics/Direct Taxes.md",
+    "Maco Economics/Indirect Taxes.md",
+    "Maco Economics/Sales Tax.md",
+    "Maco Economics/Excise Tax.md",
+    "Maco Economics/Tariffs.md",
+    "Maco Economics/Aggregate Demand.md",
+    "Maco Economics/Aggregate Supply.md",
+    "Maco Economics/Debt.md",
+    "Maco Economics/Business Cycle.md",
+    "Maco Economics/Types of Labor.md",
+    "Maco Economics/Wages and Salary.md",
+    "Maco Economics/Labor.md",
+    "Maco Economics/Benefit Principle.md",
+    "Maco Economics/The Periods of Business Cycle.md",
+    "Maco Economics/Federal Budget Process.md",
+    "Maco Economics/Fiscal Year.md",
+    "Maco Economics/EEOC.md",
+    "Maco Economics/State Taxes.md",
+    "Maco Economics/Gift Tax.md",
+    "Maco Economics/Economic Indicators.md",
+    "Maco Economics/Deficit.md",
+    "Maco Economics/Property Tax.md",
     "Assets/business cycle.png",
-    "Econ/Econ-General.md",
-    "GDP.md",
-    "Aggregate Supply.md",
-    "Aggregate Demand.md",
-    "Debt.md",
-    "Deficit.md",
-    "Federal Budget Process.md",
-    "Fiscal Year.md",
-    "Social Security and Medicare.md",
-    "Federal Taxes.md",
-    "Personal Income Tax.md",
-    "Estate Tax.md",
-    "Gift Tax.md",
-    "Excise Tax.md",
-    "Tariffs.md",
-    "State Taxes.md",
-    "Sales Tax.md",
-    "Property Tax.md",
-    "Regressive Tax.md",
     "Assets/federal-reserve-structure.png",
     "Assets/surplus-shortage.png",
     "Assets/Screen Shot 2023-09-27 at 12.25.11 PM.png",
