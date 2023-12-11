@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Functions.md",
+                "file": "Well Ordering Principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/Functions.md",
+                "file": "Well Ordering Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1/Functions.md",
+                "file": "Well Ordering Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1/Functions.md"
+                "file": "Well Ordering Principle.md"
               }
             }
           }
@@ -199,6 +199,7 @@
   },
   "active": "239a8f2551b1def0",
   "lastOpenFiles": [
+    "Week 1/Functions.md",
     "Week 1/Unary Connectives.md",
     "Well Ordering Principle.md",
     "Untitled",
@@ -209,7 +210,6 @@
     "Week 1/Binary Connectives.md",
     "Week 1/Propositional Variables.md",
     "Week 1/Properties of Functions.md",
-    "Week 1/Functions.md",
     "Week 1/Relation.md",
     "Week 2/Direct Proof.md",
     "Week 2/Proof by Contradiction.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Period 7A/Sub Topics/Theodore Roosevelt.md",
+                "file": "Period 4/Evidence/Whiskey Rebellion.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "shay",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Period 7A/Sub Topics/Theodore Roosevelt.md",
+                "file": "Period 4/Evidence/Whiskey Rebellion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Period 7A/Sub Topics/Theodore Roosevelt.md",
+                "file": "Period 4/Evidence/Whiskey Rebellion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Period 7A/Sub Topics/Theodore Roosevelt.md"
+                "file": "Period 4/Evidence/Whiskey Rebellion.md"
               }
             }
           }
@@ -175,6 +176,10 @@
   },
   "active": "36c96c59025fffb6",
   "lastOpenFiles": [
+    "Period 3/Sub Topics/Effects of American Revolution.md",
+    "Period 3/Evidence/Articles of Confederation.md",
+    "Period 3/Evidence/Shay's Rebellion.md",
+    "Period 7A/Sub Topics/Theodore Roosevelt.md",
     "APUSH/Big Topics/Period_1_20s_vs._50s_posters.pdf",
     "Period 4/Sub Topics/Market Rev Inventions.md",
     "Period 4/Main Topics/Market Revolution.md",
@@ -198,9 +203,6 @@
     "Period 7A/Sub Topics/WW1 Political Impact.md",
     "Period 7A/Main Topics/Second Manifest Destiny.md",
     "Period 7A/Sub Topics/SPAM War.md",
-    "Period 6/Sub Topics/Second Industrial Revolution.md",
-    "Period 7A/Evidence/Trust Busting (T. Roosevelt).md",
-    "Northern Securities Railroad.md",
     "APUSH Test Details",
     "APUSH/Sub Topics",
     "APUSH/Big Topics",

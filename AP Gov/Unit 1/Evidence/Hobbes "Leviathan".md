@@ -1,4 +1,4 @@
-
+	
 All people are selfish
 
 Governments must protect citizens from their own selfishness
