@@ -16,6 +16,7 @@ Powers not delegated to the US are reserved for the states
 [[Reserved Powers]]: 
 - 10th amendment is vague and allows for different interpretations
 - eg. Education, Intrastate Commerce, Driver's License 
+- Opposite is [[Delegated Powers]] (aka federal powers)
 
 [[Concurrent Powers]]: powers shared between state and federal government
 - However, when the two laws conflict, federal government takes supremacy 
@@ -49,6 +50,7 @@ Powers not delegated to the US are reserved for the states
 [[Carrot and Stick Theory]]: how does the federal gov get the states to do what it wants
 - Carrot: grant funding
 - Stick: federal rule/legislation 
+	- [[Mandates]]
 
 [[Cooperative Federalism]]: mixing powers between national, state, and local
 - Begins in New Deal 

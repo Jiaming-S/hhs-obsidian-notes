@@ -18,12 +18,25 @@
             }
           },
           {
-            "id": "14f6d53c8cec1adb",
+            "id": "98187189e7aebcb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Test/Concept Application FRQ.md",
+                "file": "Unit 3/Main Topics/Interest Groups.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e607c02a6efe4ab4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 3/Main Topics/Gerrymandering.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -31,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "suprema",
+                "query": "cauc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Test/Concept Application FRQ.md",
+                "file": "Unit 3/Main Topics/Gerrymandering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Test/Concept Application FRQ.md",
+                "file": "Unit 3/Main Topics/Gerrymandering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP Test/Concept Application FRQ.md"
+                "file": "Unit 3/Main Topics/Gerrymandering.md"
               }
             }
           }
@@ -145,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,42 +170,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14f6d53c8cec1adb",
+  "active": "e607c02a6efe4ab4",
   "lastOpenFiles": [
-    "Unit 1/Evidence/Linkage Institution.md",
-    "AP Test/Concept Application FRQ.md",
-    "Court Cases/McCulloch v Maryland.md",
-    "Court Cases/US v Lopez.md",
-    "Obergefell v Hodges.md",
-    "Court Cases/US v Morrison.md",
-    "Unit 1/Evidence/Locke \"The Second Treatise\".md",
-    "Court Cases/Marbury v Madison.md",
-    "Unit 1/Main Topics/Federalism.md",
-    "AP Test/AP Test Details.md",
-    "AP Test/Essay Format.md",
-    "Writ of Habeas Corpus.md",
-    "Unit 1/Main Topics/The Constitution.md",
-    "Unit 1/Evidence/Rousseau \"The Social Contract\".md",
-    "Unit 1/Evidence/Hobbes \"Leviathan\".md",
-    "Unit 1/Main Topics/Declaration of Independence.md",
-    "Unit 1/Evidence/Montesquieu \"Spirit of Laws\".md",
-    "Unit 1/Main Topics/The Bill of Rights.md",
-    "Unit 1/Sub Topics/Constitution Plans & Compromises.md",
-    "Court Cases/Details/Marbury v Madison Facts.md",
-    "Court Cases/Cases",
-    "Court Cases/Details",
-    "Court Cases",
-    "Unit 1/Main Topics/Core Political Values.md",
-    "AP Test.md",
-    "AP Test",
-    "Unit 1/Evidence/Types of Government.md",
-    "Confederal Government.md",
-    "Unit 1/Sub Topics/Articles Main Accomplishments.md",
-    "Unit 1/Evidence/English Bill of Rights.md",
-    "Unit 1/Readings",
-    "Unit 1/Evidence",
-    "Unit 1/Sub Topics",
-    "Unit 1/Main Topics",
-    "Unit 1"
+    "Unit 3/Sub Topics/Important Committees in the Senate.md",
+    "Unit 3/Sub Topics/Important Committees in the House.md",
+    "Unit 3/Main Topics/Gerrymandering.md",
+    "Unit 3/Main Topics/Interest Groups.md",
+    "Unit 3/Main Topics/Committees of Congress.md",
+    "Unit 3/Evidence/Free-Rider Problem.md",
+    "Unit 3/Evidence/Olson's Law of Large Groups.md",
+    "Unit 3/Evidence/Senate Foreign Relations Committee.md",
+    "Unit 3/Evidence/Senate Judiciary Committee.md",
+    "Unit 3/Evidence/House Ways and Means Committee.md",
+    "Unit 3/Evidence/House Judiciary Committee.md",
+    "Unit 3/Sub Topics/Standing Committees.md",
+    "Unit 3/Sub Topics",
+    "Unit 3/Main Topics",
+    "Unit 3/Evidence",
+    "Unit 3",
+    "Unit 2/Main Topics/Presidential Election Process.md",
+    "Unit 2/Sub Topics/Other Political Participation.md",
+    "Unit 2/Main Topics/Public Opinion and Politics.md",
+    "Unit 2/Evidence/Reactionary.md",
+    "Unit 1/Sub Topics/Amendments.md",
+    "Unit 2/Evidence/Family Socialization.md",
+    "Unit 2/Evidence/School Socialization.md",
+    "Unit 2/Main Topics/Political Socialization.md",
+    "Unit 2/Evidence/Moderate.md",
+    "Unit 2/Evidence/Media Socialization.md",
+    "Assets/presidential-election-process.jpg",
+    "Assets",
+    "Unit 2/Sub Topics",
+    "Unit 2/Main Topics",
+    "Unit 2/Evidence",
+    "Unit 2",
+    "Court Cases/Cases"
   ]
 }

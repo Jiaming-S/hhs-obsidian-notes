@@ -1,3 +1,4 @@
+
 # [[Marbury v Madison Facts]]
 - John Adams: Federalist President (lame duck)
 - John Marshall: Chief Justice of SC and Secretary of State under Adams
