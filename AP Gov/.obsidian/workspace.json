@@ -18,33 +18,19 @@
             }
           },
           {
-            "id": "98187189e7aebcb5",
+            "id": "47ab5e9aa4a84c2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 3/Main Topics/Interest Groups.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e607c02a6efe4ab4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 3/Main Topics/Gerrymandering.md",
+                "file": "AP Test/SCOTUS Comparison FRQ.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cauc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 3/Main Topics/Gerrymandering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 3/Main Topics/Gerrymandering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Unit 3/Main Topics/Gerrymandering.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -170,11 +152,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e607c02a6efe4ab4",
+  "active": "2766d64da70fbd44",
   "lastOpenFiles": [
-    "Unit 3/Sub Topics/Important Committees in the Senate.md",
-    "Unit 3/Sub Topics/Important Committees in the House.md",
+    "AP Test/SCOTUS Comparison FRQ.md",
+    "Unit 3/Main Topics/Congress.md",
     "Unit 3/Main Topics/Gerrymandering.md",
+    "Unit 3/Sub Topics/Incumbency Advantage.md",
+    "Unit 3/Sub Topics/Congress Members.md",
+    "Unit 3/Main Topics/Reapportionment.md",
+    "Unit 3/Sub Topics/Important Committees in the Senate.md",
+    "Baker v Carr.md",
+    "Unit 3/Sub Topics/Important Committees in the House.md",
     "Unit 3/Main Topics/Interest Groups.md",
     "Unit 3/Main Topics/Committees of Congress.md",
     "Unit 3/Evidence/Free-Rider Problem.md",
@@ -196,8 +184,6 @@
     "Unit 2/Evidence/Family Socialization.md",
     "Unit 2/Evidence/School Socialization.md",
     "Unit 2/Main Topics/Political Socialization.md",
-    "Unit 2/Evidence/Moderate.md",
-    "Unit 2/Evidence/Media Socialization.md",
     "Assets/presidential-election-process.jpg",
     "Assets",
     "Unit 2/Sub Topics",
