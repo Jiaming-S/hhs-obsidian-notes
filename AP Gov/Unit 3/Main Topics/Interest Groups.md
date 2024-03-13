@@ -32,7 +32,7 @@ Group of people with common goal and use lobbying to influence/change public pol
 
 [[Iron Triangles]]
 - Set of Bureaucrats, Congressmen and Lobbyists who seek to develop policies to their interest
-		- Lobbyists/Interest Groups are lobbying for policies, Congress passes laws, Bureaucracy enforces laws
+	- Lobbyists/Interest Groups are lobbying for policies, Congress passes laws, Bureaucracy enforces laws
 
 [[Revolving Door]]
 - People come and go from working in lobbying to politics and back to lobbying 
