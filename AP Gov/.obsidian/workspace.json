@@ -8,22 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2766d64da70fbd44",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "47ab5e9aa4a84c2c",
+            "id": "c57556b9ae9c7d42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "AP Test/SCOTUS Comparison FRQ.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66f8a8dc214185ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Test/SCOTUS Comparison Cases.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbbcb48d8a224b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 2/Main Topics/Campaign Finance.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AP Test/SCOTUS Comparison FRQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AP Test/SCOTUS Comparison FRQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AP Test/SCOTUS Comparison FRQ.md"
+              }
             }
           }
         ]
@@ -152,25 +172,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2766d64da70fbd44",
+  "active": "c57556b9ae9c7d42",
   "lastOpenFiles": [
+    "AP Test/SCOTUS Comparison Cases.md",
+    "Unit 2/Main Topics/Campaign Finance.md",
     "AP Test/SCOTUS Comparison FRQ.md",
-    "Unit 3/Main Topics/Congress.md",
     "Unit 3/Main Topics/Gerrymandering.md",
-    "Unit 3/Sub Topics/Incumbency Advantage.md",
-    "Unit 3/Sub Topics/Congress Members.md",
+    "Unit 1/Main Topics/Federalism.md",
     "Unit 3/Main Topics/Reapportionment.md",
+    "Unit 3/Evidence/House Ways and Means Committee.md",
+    "Unit 3/Sub Topics/Congress Members.md",
+    "Unit 3/Main Topics/Committees of Congress.md",
+    "Unit 3/Evidence/House Judiciary Committee.md",
+    "Unit 3/Evidence/Free-Rider Problem.md",
+    "Unit 3/Evidence/Senate Judiciary Committee.md",
+    "Unit 3/Evidence/Senate Foreign Relations Committee.md",
+    "Unit 3/Evidence/Olson's Law of Large Groups.md",
+    "Unit 3/Main Topics/Interest Groups.md",
+    "Unit 3/Main Topics/Congress.md",
+    "Unit 3/Sub Topics/Incumbency Advantage.md",
     "Unit 3/Sub Topics/Important Committees in the Senate.md",
     "Baker v Carr.md",
     "Unit 3/Sub Topics/Important Committees in the House.md",
-    "Unit 3/Main Topics/Interest Groups.md",
-    "Unit 3/Main Topics/Committees of Congress.md",
-    "Unit 3/Evidence/Free-Rider Problem.md",
-    "Unit 3/Evidence/Olson's Law of Large Groups.md",
-    "Unit 3/Evidence/Senate Foreign Relations Committee.md",
-    "Unit 3/Evidence/Senate Judiciary Committee.md",
-    "Unit 3/Evidence/House Ways and Means Committee.md",
-    "Unit 3/Evidence/House Judiciary Committee.md",
     "Unit 3/Sub Topics/Standing Committees.md",
     "Unit 3/Sub Topics",
     "Unit 3/Main Topics",
@@ -181,9 +204,6 @@
     "Unit 2/Main Topics/Public Opinion and Politics.md",
     "Unit 2/Evidence/Reactionary.md",
     "Unit 1/Sub Topics/Amendments.md",
-    "Unit 2/Evidence/Family Socialization.md",
-    "Unit 2/Evidence/School Socialization.md",
-    "Unit 2/Main Topics/Political Socialization.md",
     "Assets/presidential-election-process.jpg",
     "Assets",
     "Unit 2/Sub Topics",

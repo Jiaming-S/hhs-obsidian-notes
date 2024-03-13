@@ -1,8 +1,8 @@
 
 Group of people with common goal and use lobbying to influence/change public policy/legislation
 
-[[Olson's Law of Large Groups]]: 
-- The larger the group, the further it will fall short of providing optimal amount of collective good
+[[Olson's Law of Large Groups]]:  ^2cd063
+- The larger the group, the further it will fall short of providing optimal amount of collective good ^08a204
 	- Potential members decide not to join but rather sit back and let actual members do the work from which they will benefit 
 	- eg. in NRA, anyone with a gun is a potential member and actual member are actual NRA members who pay the NRA duties
 		- A gun owner not in NRA still benefits from work done by NRA without paying 

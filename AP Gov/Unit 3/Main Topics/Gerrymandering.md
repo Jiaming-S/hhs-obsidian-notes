@@ -12,7 +12,7 @@ Strategies for Gerrymandering:
 	- By party which has disadvantage
 	- With majority-minority districts, packing minorities who traditionally vote democrat creates imbalance 
 		- Racial Gerrymandering (unconstitutional)
-		- [[Shaw v Reno]]: 
+		- [[Shaw v Reno]]:  ^6a77a7
 			- The I-85 district in North Carolina was created by district along an interstate highway which had mostly black residents 
 			- SC ruled that race-based districting is unconstitutional under [14th Amendment Equal Protection Clause] 
 				- The district shape was bizarre enough to suggest that it was effort to separate voters into districts based on race 

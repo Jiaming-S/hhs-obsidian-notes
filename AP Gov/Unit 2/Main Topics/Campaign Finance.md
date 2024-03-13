@@ -21,18 +21,18 @@ Laws are all an attempt to level the playing field by preventing advantages by p
 - Bans soft money which was allowed by FECA amendment 
 	- Banned money used for issue advocacy advertising when close to election time
 - [Workaround] for soft-money limit where tax-exempt 527's were created where unlimited money could be spent on ads
-		- Now obsolete thanks to Citizens United
+	- Now obsolete thanks to Citizens United ^c8ae0b
 
-[[Citizens United v FEC]]: declared parts of BCRA unconstitutional 
-- Full info: https://www.oyez.org/cases/2008/08-205
-	- Holds that political spending is a form of protected speech under 1st amendment 
-	- Upholds the direct hard-money candidate donation limits
-- Used [[Buckley v Valeo]]'s to hold that money is speech and corporations are people 
-	- Corporation has all the rights of an individual, therefore it has freedom of speech
-- Strikes down the time-limit part of [[Bipartisan Campaign Reform Act]] (BCRA)
-- Allows corporations to spend unlimited soft-money on campaigns 
-	- [[Super PAC]]: now corporations can donate unlimited amounts of money to candidate
-		- Super PAC's can use in political spending independent of the campaign
-		- They are run by people with same agenda as candidate so no coordination needed
+- [[Citizens United v FEC]]: declared parts of BCRA unconstitutional  ^8438da
+	- Full info: https://www.oyez.org/cases/2008/08-205
+		- Holds that political spending is a form of protected speech under 1st amendment 
+		- Upholds the direct hard-money candidate donation limits
+	- Used [[Buckley v Valeo]]'s to hold that money is speech and corporations are people 
+		- Corporation has all the rights of an individual, therefore it has freedom of speech
+	- Strikes down the time-limit part of [[Bipartisan Campaign Reform Act]] (BCRA)
+	- Allows corporations to spend unlimited soft-money on campaigns 
+		- [[Super PAC]]: now corporations can donate unlimited amounts of money to candidate
+			- Super PAC's can use in political spending independent of the campaign
+			- They are run by people with same agenda as candidate so no coordination needed
 
 

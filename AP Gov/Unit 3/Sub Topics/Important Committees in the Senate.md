@@ -6,5 +6,5 @@
 - Makes recommendations on approval of treaties
 - Senate has power to make advice and approve treaties
 Senate Appropriations Committee
-- Spending bills and budgets
+- Spending bills and budgets ^8bbee0
 
