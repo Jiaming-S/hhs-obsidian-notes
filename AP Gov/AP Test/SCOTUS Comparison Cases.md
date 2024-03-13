@@ -16,7 +16,7 @@ _[14th Amendment Equal Protection Clause]_
 _[14th Amendment Equal Protection Clause]_
 ![[Gerrymandering#^6a77a7]]
 - Facts: 
-	- The I-85 district in North Carolina was created by district along an interstate highway which had mostly black residents
+	- The long narrow I-85 district in North Carolina was created by district along an interstate highway which had mostly black residents
 - Issue: 
 	- Does race-based districting violate [14th Amendment Equal Protection Clause]? 
 - Holding:
@@ -37,7 +37,7 @@ _[1st Amendment Freedom of Speech Clause]_
 
 
 
-### Tinker v Des Moines: 
+### Tinker v Des Moines: Materially and Substantially
 _[1st Amendment Freedom of Speech Clause]_
 - Facts: 
 	- Students wore black armbands to school to protest Vietnam War and were sent home. 
@@ -48,7 +48,7 @@ _[1st Amendment Freedom of Speech Clause]_
 
 
 
-### NYT v US: 
+### NYT v US: Breach National Security
 _[1st Amendment Freedom of Speech Clause]_
 - Facts:
 	- Nixon Administration tried to prevent New York Times' from publishing the Pentagon Papers consisting of classified reports of the US in Vietnam. 
@@ -60,12 +60,45 @@ _[1st Amendment Freedom of Speech Clause]_
 
 
 
-### Citizens United v FEC: 
+### Citizens United v FEC: Corporations are People
+_[1st Amendment Freedom of Speech Clause]_
 ![[Campaign Finance#^8438da]]
 - Facts: 
-	- 
+	- The BCRA prohibited corporations from paying for ads for or against a candidate within 30 days of a primary or 60 days of a general election. 
+	- Citizens United created _Hillary: The Movie_ to persuade voters against voting for Hillary Clinton. 
 - Issue:
-	- 
+	- Does the part of BCRA restricting corporate spending violate [1st Amendment Freedom of Speech Clause]? 
 - Holding: 
-	- 
+	- Yes, "[Corporations Are People]" and also have free speech rights and can freely advocate for/against a candidate as long as they aren't coordinated. 
+
+
+
+### US v Lopez: Inference Upon Inference
+_[Article 1 Section 8 Commerce Clause]_
+![[US v Lopez]]
+- Facts:
+	- Congress passed Gun-Free School Zones act to reduce gun violence in schools and Lopez, a student, was convicted of possessing a gun at a Texas school.
+- Issue:
+	- Did Congress have power to pass the Gun-Free School Zones act under [Article 1 Section 8 Commerce Clause]?
+- Holding:
+	- No, possessing a gun is not an economic activity and to prove it is would require the court to "[Pile Inference Upon Inference]"
+
+
+
+### McDonald v Chicago: Fundamental Right
+_[14th Amendment Due Process Clause]_
+- Facts:
+	- Chicago banned handguns to reduce crime and made possessing unregistered handguns illegal.
+- Issue:
+	- Does 2nd Amendment apply to states through the [14th Amendment Due Process Clause]? 
+- Holding:
+	- Yes, the right to self-defense is a [Fundamental Right] and deeply rooted in American society/
+
+
+
+### McCulloch v Maryland
+
+
+
+
 

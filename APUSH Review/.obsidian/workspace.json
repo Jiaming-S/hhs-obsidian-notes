@@ -11,12 +11,8 @@
             "id": "36c96c59025fffb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APUSH/Evidence/Eisenhower Era/Brown v. Board of Education.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -104,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APUSH/Evidence/Eisenhower Era/Brown v. Board of Education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APUSH/Evidence/Eisenhower Era/Brown v. Board of Education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "APUSH/Evidence/Eisenhower Era/Brown v. Board of Education.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -166,6 +158,8 @@
   },
   "active": "36c96c59025fffb6",
   "lastOpenFiles": [
+    "Period 4/Main Topics/Jefferson Presidency.md",
+    "APUSH/Evidence/Eisenhower Era/Brown v. Board of Education.md",
     "Period 4/Evidence/Whiskey Rebellion.md",
     "Period 3/Sub Topics/Effects of American Revolution.md",
     "Period 3/Evidence/Articles of Confederation.md",
@@ -191,8 +185,6 @@
     "Period 7A/Sub Topics/WW1 Social Impact.md",
     "Period 7A/Main Topics/World War I.md",
     "Period 7A/Sub Topics/WW1 Economic Impact.md",
-    "Period 7A/Sub Topics/WW1 Political Impact.md",
-    "Period 7A/Main Topics/Second Manifest Destiny.md",
     "APUSH Test Details",
     "APUSH/Sub Topics",
     "APUSH/Big Topics",

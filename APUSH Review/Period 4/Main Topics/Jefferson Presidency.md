@@ -13,5 +13,3 @@ Began with [[Revolution of 1800]]
 
 
 
-
-
