@@ -20,7 +20,7 @@ _[14th Amendment Equal Protection Clause]_
 - Issue: 
 	- Does race-based districting violate [14th Amendment Equal Protection Clause]? 
 - Holding:
-	- Yes, racial gerrymandering is unconstitutional if the shape is only explainable as dividing voters solely based on race and subject to "[Strict Scrutiny]"
+	- Yes, racial gerrymandering is unconstitutional if the shape is only explainable as dividing voters based on race and is also subject to "[Strict Scrutiny]"
 
 
 
@@ -92,7 +92,7 @@ _[14th Amendment Due Process Clause]_
 - Issue:
 	- Does 2nd Amendment apply to states through the [14th Amendment Due Process Clause]? 
 - Holding:
-	- Yes, the right to self-defense is a [Fundamental Right] and deeply rooted in American society/
+	- Yes, the right to self-defense is a [Fundamental Right] and deeply rooted in American society
 
 
 

@@ -29,6 +29,15 @@ Part C:
 - Use an EXAMPLE if possible 
 - DEFINE term if possible 
 
-Note:
+Notes:
 - Memorize amendments / clauses
 - Memorize the facts, holding, and issues of req cases
+
+Notes from First FRQ:
+- Part C: try to give a specific example of proposals 
+- Make sure clause name is exactly right 
+	- Equal Protection Clause *(not Equal Protections Clause)*
+	- 14th Amendment Equal Protection *(not Equal Protection Clause in the 14th Amendment)*
+- Make sure flow is correct in Part B: facts (precedent here also helps) then similarity/difference
+- Part B facts, try to include the impact (like Baker v Carr requires leg. to redistrict every census)
+
