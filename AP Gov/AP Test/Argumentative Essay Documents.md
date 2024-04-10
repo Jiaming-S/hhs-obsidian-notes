@@ -34,6 +34,16 @@
 - Legislative Branch is purposefully slow to invite more debate and deliberation 
 
 
+## [Federalist 78]: Weakest of the Three
+- Judiciary: system of judges representing judicial branch
+	- Judiciary must be independent from politics and other branches via life tenure
+	- Limited Constitution is only possible thanks to independent judiciary 
+	- Powers of judiciary must not be combined with any other power 
+- Judiciary is the least dangerous branch to democracy
+	- Can't make or act on laws like Legislative/Executive Branch
+	- Relies on Executive Branch to act on decisions 
+
+
 ## [Brutus 1]: Government Tyranny
 - Federal government is too powerful at expense of individual liberties
 	- Supremacy clause 
@@ -41,6 +51,10 @@
 	- Congress is too powerful with Necessary and Proper Clause and power to tax
 	- Demanded bill of rights 
 - Large government results in too many competing arguments harming government efficiency 
+
+
+## [Letter From A Birmingham Jail]: Duty to Fight
+- // TODO
 
 
 ## [Declaration of Independence]: Government Protects Rights
@@ -57,6 +71,7 @@
 	- Unicameral legislature where all states had 1 vote
 - Powers addressed concerns in Declaration of Independence
 	- No single leader, no power to tax, no standing armies
+- Shay's Rebellion: shows weakness of ineffective government 
 
 
 ## [Constitution]: Federal System 
@@ -64,4 +79,7 @@
 	- // TODO 
 - Separation of Power and Checks and Balances
 	- // TODO
+
+
+
 

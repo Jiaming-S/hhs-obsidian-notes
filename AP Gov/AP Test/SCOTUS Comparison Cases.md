@@ -1,4 +1,3 @@
-
 ### Baker v Carr:  [[Reapportionment]] and Malapportionment
 _[14th Amendment Equal Protection Clause]_
 ![[Reapportionment#^843ac0]]
@@ -96,9 +95,57 @@ _[14th Amendment Due Process Clause]_
 
 
 
+## Engel v Vitale: Separation of Church and State
+[1st Amendment Establishment Clause]
+- Facts:
+	- New York Board of Regents authorized a short voluntary prayer at start of school day. 
+- Issue: 
+	- Does reading nondenominational prayer violate [1st Amendment Establishment Clause]?
+- Holding:
+	- Yes, teachers are paid with government money and are therefore representatives of government. State-sponsored nondenominational prayer violates the principle of [Separation of Church and State]. 
+
+
+
+## Gideon v Wainwright: Right to Legal Counsel
+[6th Amendment Right to Counsel]
+- Facts:
+	- Gideon charged with breaking and entering in Florida State court without a lawyer.
+	- Florida court did not appoint lawyer after request since it wasn't a capital case. 
+	- Gideon represents himself and found guilty. 
+- Issue: 
+	- Does [6th Amendment Right to Counsel] extend to states under 14th Amendment Due Process Clause? 
+- Holding:
+	- Yes, 6th Amendment's Right to Legal Counsel is a fundamental right. 
+
+
+
+## Wisconsin v Yoder: Fundamental Mode of Life
+[1st Amendment Free Exercise Clause]
+- Facts:
+	- Wisconsin passed a law requiring children to attend public school until 16. 
+	- Amish parents were prosecuted after they refused to send children after 8th grade because of religious conflicts.
+- Issue:
+	- Did Wisconsin's law violate Amish's [1st Amendment Free Exercise] rights?
+- Holding:
+	- Yes, mandatory high school education is in sharp conflict with the Amish's [Fundamental Mode of Life]. Individuals' interests outweigh states' interests. 
+
+
+
+## Brown v Board: Inherently Unequal
+[14th Amendment Equal Protection Clause]
+- Facts: 
+	- Linda Brown, a black student, was denied access to all-white public school.
+	- Previous Plessy v Ferguson declared that separate but equal was legal. 
+- Issue:
+	- Does separate but equal facilities violate [14th Amendment Equal Protection Clause]? 
+- Holding:
+	- Yes, [Separate is Inherently Unequal] since segregation instills a sense of inferiority which has negative effects on education. 
+
+
+
 ### McCulloch v Maryland
-
-
+[Article 6 Supremacy Clause]
+- // TODO
 
 
 

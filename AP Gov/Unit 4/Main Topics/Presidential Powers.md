@@ -19,6 +19,7 @@ Chief Legislator:
 	- State of the Union
 	- Budget
 - Can sign/veto/pocket veto legislation 
+- [[Signing Statements]]: inform public/congress of President's interpretation
 
 Chief Diplomat:
 - Negotiate treaties 
@@ -26,7 +27,7 @@ Chief Diplomat:
 	- eg. Treaty of Versailles not ratified by senate
 - Can issue [[Executive Agreement]] which are smaller
 - [[Recognition Power]]: determines whether a country is recognized by the US 
-
+	
 Commander in Chief
 
 Judicial Power:

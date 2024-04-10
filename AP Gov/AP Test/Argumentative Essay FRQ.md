@@ -51,11 +51,11 @@ For next essay, no
 - Letter from Birmingham Jail
 - Fed 78
 
-
-
-
-
-
+Notes:
+- Base the claim off of evidence not intuition
+- Counterclaim thesis should be exact same format as normal thesis (use exact wording too)
+- Don't use "and" in line of reasoning because it's more complex
+- Don't need example in counterclaim
 
 
 
