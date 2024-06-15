@@ -1,3 +1,4 @@
+
 ### Baker v Carr:  [[Reapportionment]] and Malapportionment
 _[14th Amendment Equal Protection Clause]_
 ![[Reapportionment#^843ac0]]
@@ -37,7 +38,7 @@ _[1st Amendment Freedom of Speech Clause]_
 
 
 ### Tinker v Des Moines: Materially and Substantially
-_[1st Amendment Freedom of Speech Clause]_
+_[1st Amendment Freedom of Press]_
 - Facts: 
 	- Students wore black armbands to school to protest Vietnam War and were sent home. 
 - Issue:

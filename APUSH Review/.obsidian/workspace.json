@@ -4,25 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "76f310c588e93600",
+        "id": "628353ece8145494",
         "type": "tabs",
         "children": [
           {
-            "id": "36c96c59025fffb6",
+            "id": "7e8f4f4f8cd876b5",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "a79e4beffa3287dd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "APUSH/Big Topics/Period_1_20s_vs._50s_posters.pdf"
-              }
             }
           }
         ]
@@ -156,8 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36c96c59025fffb6",
+  "active": "7e8f4f4f8cd876b5",
   "lastOpenFiles": [
+    "Period 7B/Evidence/Welfare State.md",
+    "Period 7B/Sub Topics/GD Social Impact.md",
+    "Period 7B/Evidence/Bank Crisis.md",
+    "Period 7B/Sub Topics/GD Economic Impact.md",
+    "Period 7B/Main Topics/Great Depression.md",
+    "Period 7B/Sub Topics/WW2 Political Impact.md",
+    "Period 7B/Sub Topics/WW2 Social Impact.md",
+    "Period 7B/Sub Topics/Franklin Roosevelt.md",
+    "Period 7B/Main Topics/World War 2.md",
     "Period 4/Main Topics/Jefferson Presidency.md",
     "APUSH/Evidence/Eisenhower Era/Brown v. Board of Education.md",
     "Period 4/Evidence/Whiskey Rebellion.md",
@@ -174,17 +173,8 @@
     "Period 8-9/Evidence/Great Society.md",
     "APUSH/Evidence/Truman Era/Korean War.md",
     "Period 7B/Evidence/Revitalizing Economy.md",
-    "Period 7B/Sub Topics/GD Economic Impact.md",
-    "Period 7B/Evidence/Bank Crisis.md",
-    "Period 7B/Main Topics/Great Depression.md",
-    "Period 7B/Sub Topics/Franklin Roosevelt.md",
     "Period 7B/Evidence/Religion vs Science.md",
     "Period 7B/Sub Topics/Social issues in the 20s.md",
-    "Period 7B/Evidence/Prohibition.md",
-    "Period 7B/Main Topics/Roaring 20's.md",
-    "Period 7A/Sub Topics/WW1 Social Impact.md",
-    "Period 7A/Main Topics/World War I.md",
-    "Period 7A/Sub Topics/WW1 Economic Impact.md",
     "APUSH Test Details",
     "APUSH/Sub Topics",
     "APUSH/Big Topics",

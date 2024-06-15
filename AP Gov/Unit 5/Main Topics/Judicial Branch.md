@@ -1,6 +1,7 @@
 
 Legislative Branch responsible for creating Federal Courts
 - Judiciary Act
+- Rule of Four
 
 Civil vs Criminal Cases:
 - Criminal: Breaking a Law 
